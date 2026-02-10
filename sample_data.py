@@ -15,7 +15,7 @@ BILL OVERVIEW RM 126.35
 
 Total Amount Payable
 
-Hello MIOR FARIDHAL AKTRAS BIN MUSTAPA
+Hello USER
 
 Remaining balance from previous month RM85.00
 
@@ -55,13 +55,13 @@ Total: RM 2.34
 
 UNI5G Postpaid 39 Individual
 Description Start Date End Date Gross (RM) Discount (RM) Amount (RM)
-0126919381
+012XXXXXXX
 UNI5G Postpaid 39 (ST) 13/01/2026 12/02/2026 39.00 0.00 39.00
 Total: RM 39.00
 
 USAGE/PURCHASE HISTORY
 Account No: 7013080234 Bill Date: 13 Jan 2026
-0126919381
+012XXXXXXX
 
 Mobile Calls
 Date Time Called to Duration Amount (RM)
